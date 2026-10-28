@@ -1,0 +1,15 @@
+{
+  "name": "genpark-agentic-commerce-sponsored-placement-router-skill",
+  "version": "1.0.0",
+  "description": "GenPark Agentic Commerce Sponsored Placement Router - Optimizes in-context AI agent sponsored product placements (SAP) and algorithmic slotting yield.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "agentic-commerce",
+    "sponsored-placement",
+    "sap-auction",
+    "q-gsp",
+    "mcp"
+  ]
+}
